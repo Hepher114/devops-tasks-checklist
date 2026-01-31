@@ -1,5 +1,6 @@
 # devops-checklist
 
+![alt text](<Screenshot 2026-01-31 at 2.11.38 PM.png>)
 A Node.js web app to track your DevOps learning journey step by step. Create tasks, break them into steps, and check them off as you complete them.
 
 ## Getting Started
