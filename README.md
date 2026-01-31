@@ -42,6 +42,3 @@ The frontend calls the backend API using JavaScript `fetch()`. When you click a 
 - HTML / CSS / JavaScript (Frontend)
 - In-memory storage (resets on restart)
 
-## License
-
-MIT
