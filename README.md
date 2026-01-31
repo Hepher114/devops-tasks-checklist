@@ -4,7 +4,7 @@
 
 A Node.js web app to track your DevOps learning journey step by step. Create tasks, break them into steps, and check them off as you complete them. The backend is built with Node.js and Express.js, while the frontend uses HTML, CSS, and JavaScript.
 
-## use this commands to start the app
+## Use this commands to start the app
 
 ```bash
 git https://github.com/Hepher114/devops-tasks-checklist.git
