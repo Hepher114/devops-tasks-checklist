@@ -26,11 +26,7 @@ devops-checklist/
 └── README.md
 ```
 
-## How It Works
-
-The frontend calls the backend API using JavaScript `fetch()`. When you click a checkbox, it sends a request to the backend, which updates the data and returns the result. The frontend then re-renders the page.
-
-## Features
+## Components 
 
 - Create and manage DevOps tasks with steps
 - Check off steps and track progress visually
